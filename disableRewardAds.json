@@ -1,4 +1,4 @@
 {
-  "isDisableReward": true,
-  "isDisablePurchaseOne": true
+  "isDisableReward": false,
+  "isDisablePurchaseOne": false
 }
