@@ -1,5 +1,7 @@
 {
 "hiddenTabbar": false,
-"isHiddenChoosen": false,
+"isHiddenChoosen": true,
+"isHiddenLiveMeme": true,
+"isHidden4KWallpaper": true,
 "isHacked": false
 }
